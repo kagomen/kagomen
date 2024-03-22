@@ -7,7 +7,6 @@
 - 讃岐うどん
 - かたいグミ
 - コーヒー牛乳
-- [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
   
 ### 👾 GitHub Status
 
@@ -15,3 +14,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kagomen&theme=shadow_blue" />
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagomen&layout=compact&show_icons=true&theme=shadow_blue" />
 </p>
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+<img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
+<img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat">
