@@ -1,6 +1,15 @@
-### 🐌
+### 🐌 自己紹介
+- 2023年の12月からプログラミングの独学を始めました
 
-[![kagomen's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kagomen&show_icons=true&theme=nord&bg_color=00000000&line_height=28&card_width=320#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![kagomen's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kagomen&show_icons=true&theme=shadow_blue&bg_color=00000000&line_height=28#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kagomen&layout=donut&theme=nord&bg_color=00000000&line_height=28&card_width=320#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kagomen&layout=donut&theme=shadow_blue&bg_color=00000000&line_height=28&card_width=320#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+### 🐇 好きなもの
+- うさぎ
+- 讃岐うどん
+- かたいグミ
+- コーヒー牛乳
+  
+### 🏇 GitHub Status
+
+<p align="left"> 
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kagomen&theme=shadow_blue" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagomen&layout=compact&show_icons=true&theme=shadow_blue" />
+</p>
