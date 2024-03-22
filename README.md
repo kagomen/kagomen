@@ -1,5 +1,6 @@
 ### 🐌 自己紹介
 - 2023年の12月からプログラミングの独学を始めました
+- [学習の記録](https://scrapbox.io/kagomelog/)
 
 ### 🐇 好きなもの
 - うさぎ
@@ -7,7 +8,7 @@
 - かたいグミ
 - コーヒー牛乳
   
-### 🏇 GitHub Status
+### 👾 GitHub Status
 
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kagomen&theme=shadow_blue" />
