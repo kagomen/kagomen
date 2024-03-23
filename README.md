@@ -11,8 +11,8 @@
 ### 👾 GitHub Status
 
 <p align="left"> 
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kagomen&theme=shadow_blue" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagomen&layout=compact&show_icons=true&theme=shadow_blue" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kagomen&hide_title=true&text_color=777&bg_color=00000000&theme=gotham" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagomen&layout=compact&show_icons=true&card_width=382&title_color=777&text_color=777&bg_color=00000000&theme=gotham" />
 </p>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
