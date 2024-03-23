@@ -18,3 +18,5 @@
 ![React](https://img.shields.io/badge/-React-61DAFB.svg?logo=react&logoColor=fff&textColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&logoColor=fff)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+<img alt="myoctcat stats" height="250px" src="https://github.com/kagomen/kagomen/assets/154225199/92d6d603-dc1f-4459-978c-9640b421fffe">
