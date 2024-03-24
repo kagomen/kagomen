@@ -1,6 +1,6 @@
 ## 𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍 🚀
 
-<img align="right" alt="myoctcat stats" height="200px" src="https://github.com/kagomen/kagomen/assets/154225199/e49c6b34-35f0-4b74-9ada-ac8041d7234b">
+<img align="right" alt="myoctcat stats" height="200px" src="https://github.com/kagomen/kagomen/assets/154225199/0156fa54-cbef-4275-a651-1529c34d6453">
 
  2023年の12月からプログラミングの独学を始めました :octocat:
 
