@@ -1,3 +1,5 @@
+[![Hits](https://hits.sh/github.com/kagomen.svg?view=today-total&label=Today%20%2F%20Total&color=00c6c4&labelColor=999)](https://hits.sh/github.com/kagomen/)
+
 ## 𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍 🚀
 
 <a href="https://myoctocat.com/"><img align="right" alt="myoctcat stats" height="200px" src="https://github.com/kagomen/kagomen/assets/154225199/0156fa54-cbef-4275-a651-1529c34d6453"></a>
