@@ -24,7 +24,8 @@
  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagomen&layout=compact&show_icons=true&card_width=382&title_color=777&text_color=777&bg_color=00000000&theme=gotham" />
 </p>
 
-![React](https://img.shields.io/badge/-React-61DAFB.svg?logo=react&logoColor=fff&textColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&logoColor=fff&textColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB.svg?logo=react&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&logoColor=fff)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
