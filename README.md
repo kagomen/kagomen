@@ -8,7 +8,8 @@
 <a href="https://myoctocat.com/"><img alt="myoctcat stats" height="200px" src="https://github.com/kagomen/kagomen/assets/154225199/ca01b64c-7a2b-43db-a1e9-c013bb6ce4d9"></a>  
 
 
-2023年12月からプログラミングの学習を始めました :octocat:
+2023年12月からプログラミングの学習を始めました :octocat:  
+Webやゲーム制作について関心があります 👾
 </div>
 
 ---
