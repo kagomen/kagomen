@@ -1,17 +1,21 @@
-[![Hits](https://hits.sh/github.com/kagomen.svg?view=today-total&label=Today%20%2F%20Total&color=00c6c4&labelColor=999)](https://hits.sh/github.com/kagomen/)
+<div align="right">
+<a href="https://hits.sh/github.com/kagomen/"><img alt="access-counter" src="https://hits.sh/github.com/kagomen.svg?view=today-total&label=Today%20%2F%20Total&color=00c6c4&labelColor=999"></a>
+</div>
 
-## 𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍 🚀
+<div align="center">
 
-<a href="https://myoctocat.com/"><img align="right" alt="myoctcat stats" height="200px" src="https://github.com/kagomen/kagomen/assets/154225199/0156fa54-cbef-4275-a651-1529c34d6453"></a>
+／￣￣￣￣￣￣￣￣￣＼  
+|　　**𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍 🚀**　　|  
+＼＿＿＿＿＿＿　＿＿／  
+   　 　　 |／  
+<a href="https://myoctocat.com/"><img alt="myoctcat stats" height="200px" src="https://github.com/kagomen/kagomen/assets/154225199/ca01b64c-7a2b-43db-a1e9-c013bb6ce4d9"></a>  
 
- 2023年の12月からプログラミングの独学を始めました :octocat:
 
-### 𝙁𝙖𝙫𝙤𝙧𝙞𝙩𝙚𝙨
-- うさぎ
-- 讃岐うどん
-- かたいグミ
-- コーヒー牛乳
-  
+2023年12月からプログラミングの学習を始めました :octocat:
+</div>
+
+---
+
 ### 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙪𝙨
 
 <p align="left"> 
