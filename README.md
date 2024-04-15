@@ -1,7 +1,3 @@
-<div align="right">
-<a href="https://hits.sh/github.com/kagomen/"><img alt="access-counter" src="https://hits.sh/github.com/kagomen.svg?view=today-total&label=Today%20%2F%20Total&color=00c6c4&labelColor=999"></a>
-</div>
-
 <div align="center">
 
 ／￣￣￣￣￣￣￣￣￣＼  
@@ -28,4 +24,4 @@
 ![React](https://img.shields.io/badge/-React-61DAFB.svg?logo=react&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&logoColor=fff)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
+[![access-counter](https://hits.sh/github.com/kagomen.svg?view=today-total&label=Today%20%2F%20Total&color=00c6c4&labelColor=999)](https://hits.sh/github.com/kagomen/)
