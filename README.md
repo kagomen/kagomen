@@ -18,9 +18,9 @@
 #### 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚞𝚜
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./img/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./img/snake.svg" />
+  <img alt="github-snake" src="./img/snake.svg" />
 </picture>
 
 <p align="left"> 
