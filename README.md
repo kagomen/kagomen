@@ -3,13 +3,12 @@
 ／￣￣￣￣￣￣￣￣￣＼  
 |　　**𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍 🚀**　　|  
 ＼＿＿＿＿＿＿　＿＿／  
-   　 　　 |／  
-        
-<a href="https://myoctocat.com/"><img alt="myoctcat stats" height="200px" src="https://github.com/kagomen/kagomen/assets/154225199/ca01b64c-7a2b-43db-a1e9-c013bb6ce4d9"></a>  
+ 　 　　 |／
 
+<a href="https://myoctocat.com/"><img alt="myoctcat stats" height="200px" src="https://github.com/kagomen/kagomen/assets/154225199/ca01b64c-7a2b-43db-a1e9-c013bb6ce4d9"></a>
 
-2023年12月からプログラミングの学習を始めました :octocat:  
-現在は主にWeb、ゲーム制作に関心あり  
+2023 年 12 月からプログラミングの学習を始めました :octocat:  
+現在は主に Web、ゲーム制作に関心あり  
 方法を模索すること、仕組みについて理解することが好きです 🐌
 
 </div>
@@ -17,6 +16,12 @@
 ---
 
 #### 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚞𝚜
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+</picture>
 
 <p align="left"> 
  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kagomen&hide_title=true&text_color=777&bg_color=00000000&theme=gotham" />
