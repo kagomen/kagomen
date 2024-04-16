@@ -16,7 +16,7 @@
 
 ---
 
-### 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙪𝙨
+### 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚞𝚜
 
 <p align="left"> 
  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kagomen&hide_title=true&text_color=777&bg_color=00000000&theme=gotham" />
