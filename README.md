@@ -13,11 +13,13 @@
 
 ---
 
+<a href="https://github.com/Platane/snk">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./img/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./img/snake.svg" />
   <img alt="github-snake" src="./img/snake.svg" width="640px"/>
 </picture>
+</a>
 
  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kagomen&hide_title=true&text_color=777&bg_color=00000000&theme=gotham" />
  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagomen&layout=compact&show_icons=true&card_width=382&title_color=777&text_color=777&bg_color=00000000&theme=gotham" />
