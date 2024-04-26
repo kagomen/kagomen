@@ -11,6 +11,10 @@
 現在は主に Web、ゲーム制作に関心あり  
 方法を模索すること、仕組みについて理解することが好きです 🐌
 
+_I started learning programming in December 2023._  
+_Currently, I'm mainly interested in Web and game development._  
+_I enjoy exploring methods and understanding mechanisms._  
+
 ---
 
 <a href="https://github.com/Platane/snk">
