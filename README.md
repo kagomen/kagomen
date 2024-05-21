@@ -8,12 +8,10 @@
 <a href="https://myoctocat.com/"><img alt="myoctcat stats" height="200px" src="https://github.com/kagomen/kagomen/assets/154225199/ca01b64c-7a2b-43db-a1e9-c013bb6ce4d9"></a>
 
 2023 年 12 月からプログラミングの学習を始めました :octocat:  
-現在は主に Web、ゲーム制作に関心あり  
-方法を模索すること、仕組みについて理解することが好きです 🐌
+主に Web・ゲーム開発に関心があります  
 
 _I started learning programming in December 2023._  
-_Currently, I'm mainly interested in Web and game development._  
-_I enjoy exploring methods and understanding mechanisms._  
+_I'm mainly interested in Web and game development._  
 
 ---
 
