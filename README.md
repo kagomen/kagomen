@@ -29,9 +29,9 @@ _I'm mainly interested in Web and game development._
 &nbsp;
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&logoColor=fff&textColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6.svg?logo=typescript&logoColor=fff&textColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB.svg?logo=react&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&logoColor=fff)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![access-counter](https://hits.sh/github.com/kagomen.svg?view=today-total&label=Today%20%2F%20Total&color=00c6c4&labelColor=999)](https://hits.sh/github.com/kagomen/)
 
 </div>
