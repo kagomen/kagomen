@@ -28,9 +28,13 @@ _I'm mainly interested in Web and game development._
 
 &nbsp;
 
+I prefer to use this tech stack:  
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&logoColor=fff&textColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB.svg?logo=react&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&logoColor=fff)
+![Vite](https://img.shields.io/badge/-Vite-646CFF.svg?logo=vite&logoColor=fff)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020.svg?logo=cloudflare&logoColor=fff)
 ![AdobeIllustrator](https://img.shields.io/badge/-Illustrator-FF9A00.svg?logo=adobeillustrator&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E.svg?logo=figma&logoColor=fff)
 </div>
