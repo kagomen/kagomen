@@ -13,6 +13,8 @@
 _I started learning programming in December 2023._  
 _I'm mainly interested in web technologies and game development._  
 
+[Twitter](https://x.com/kkagomme) / [Zenn](https://zenn.dev/kkagomme) / [Scrapbox](https://scrapbox.io/kagomen/)
+
 ---
 
 <a href="https://github.com/Platane/snk">
