@@ -30,7 +30,7 @@ _I'm mainly interested in web technologies and game development._
 
 &nbsp;
 
-I prefer to use this tech stack:  
+I prefer to use these tech stacks and tools:  
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&logoColor=fff&textColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB.svg?logo=react&logoColor=fff)
