@@ -37,6 +37,9 @@ I prefer to use this tech stack:
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&logoColor=fff)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF.svg?logo=vite&logoColor=fff)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020.svg?logo=cloudflare&logoColor=fff)
+![Hono](https://img.shields.io/badge/-Hono-E36002.svg?logo=hono&logoColor=fff)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37.svg?logo=postman&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E.svg?logo=figma&logoColor=fff)
 ![AdobeIllustrator](https://img.shields.io/badge/-Illustrator-FF9A00.svg?logo=adobeillustrator&logoColor=fff)
 </div>
