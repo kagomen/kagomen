@@ -19,16 +19,16 @@ _I'm mainly interested in web technologies and game development._
 
 ### 🐌 Solo Project
 
-| プロジェクト名 | GitHub | サイトURL | リリース日 |
+| Project name | GitHub | Site URL | Release Date |
 |---|---|---|---|
 | 📚 リブラク | [#](https://github.com/kagomen/libraku) | [#](https://libraku.pages.dev/) | 開発中 |
 | 🧀 倉庫番 | [#](https://github.com/kagomen/sokoban) | [#](https://kagomen.github.io/sokoban/) | 2024/05/08 |
-| 🧩 15パズル | [#](https://github.com/kagomen/15puzzle) | [#](https://kagomen.github.io/15puzzle/) | 2024/04/29 |
-| ⏱️ 10秒ストップウォッチ | [#](https://github.com/kagomen/10second-game) | [#](https://kagomen.github.io/10second-game/) | 2024/04/24 |
+| 🧩 15puzzle | [#](https://github.com/kagomen/15puzzle) | [#](https://kagomen.github.io/15puzzle/) | 2024/04/29 |
+| ⏱️ 10-second game | [#](https://github.com/kagomen/10second-game) | [#](https://kagomen.github.io/10second-game/) | 2024/04/24 |
 
 ### 🌐 Open Source Projects
 
-| プロジェクト名 | GitHub | サイトURL | リリース日 |
+| Project name | GitHub | Site URL | Release Date |
 |---|---|---|---|
 | 🛠️ LGTM Factory | [#](https://github.com/lgtm-factory/lgtm-factory) | # | 開発中 |
 | 🍡 First Contributions JA | [#](https://github.com/first-contributions-ja/first-contributions-ja.github.io) | [#](https://first-contributions-ja.github.io/) | 2024/04/08 |
