@@ -13,7 +13,7 @@
 _I started learning programming in December 2023._  
 _I'm mainly interested in web technologies and game development._  
 
-[X](https://x.com/kkagomme) / [Zenn](https://zenn.dev/kkagomme) / [Scrapbox](https://scrapbox.io/kagomen/)
+[TIL](https://github.com/kagomen/TIL) / [X](https://x.com/kkagomme) / [Zenn](https://zenn.dev/kkagomme) / [Scrapbox](https://scrapbox.io/kagomen/)
 
 &nbsp;
 
