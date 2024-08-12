@@ -15,7 +15,7 @@ _I'm mainly interested in web technologies and game development._
 
 [X](https://x.com/kkagomme) / [Zenn](https://zenn.dev/kkagomme) / [Scrapbox](https://scrapbox.io/kagomen/)
 
-<div align="left">
+&nbsp;
 
 ### 🐌 個人開発
 
@@ -33,15 +33,7 @@ _I'm mainly interested in web technologies and game development._
 | LGTM Factory | [:octocat:](https://github.com/lgtm-factory/lgtm-factory) | [🚀]() | 開発中 |
 | First Contributions JA | [:octocat:](https://github.com/first-contributions-ja/first-contributions-ja.github.io) | [🚀](https://first-contributions-ja.github.io/) | 2024/04/08 |
 
-</div>
-
-<!-- <a href="https://github.com/Platane/snk">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./img/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./img/snake.svg" />
-  <img alt="github-snake" src="./img/snake.svg" width="640px"/>
-</picture>
-</a> -->
+&nbsp;
 
  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kagomen&hide_title=true&text_color=777&bg_color=00000000&theme=gotham" />
  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagomen&layout=compact&show_icons=true&card_width=382&title_color=777&text_color=777&bg_color=00000000&theme=gotham" />
