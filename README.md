@@ -1,7 +1,7 @@
 <div align="center">
  
 ╭━━━━━━━━━━━╮  
-　**𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍 🚀**  
+　**𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍 🩵**  
 ╰━━ｖ━━━━━━━━╯  
 <img alt="myoctcat stats" height="200px" src="https://github.com/user-attachments/assets/cc23e454-1bfe-499a-8f4b-5e96160472e4">
 
