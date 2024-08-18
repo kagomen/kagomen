@@ -7,11 +7,11 @@
 
 <a href="https://myoctocat.com/"><img alt="myoctcat stats" height="200px" src="https://github.com/kagomen/kagomen/assets/154225199/ca01b64c-7a2b-43db-a1e9-c013bb6ce4d9"></a>
 
-2023 年 12 月からプログラミングの学習を始めました :octocat:  
-主に Web技術とゲーム開発に関心があります  
+2023 年 12 月からのろのろとプログラミングを独学中 🐌  
+最近は React で簡単なアプリを作っています 👾  
 
-_I started learning programming in December 2023._  
-_I'm mainly interested in web technologies and game development._  
+I've been slowly teaching myself programming since December 2023.  
+Lately, I've been building simple apps with React.  
 
 [TIL](https://github.com/kagomen/TIL) / [X](https://x.com/kkagomme) / [Zenn](https://zenn.dev/kkagomme) / [Scrapbox](https://scrapbox.io/kagomen/)
 
@@ -32,8 +32,6 @@ _I'm mainly interested in web technologies and game development._
  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagomen&layout=compact&show_icons=true&card_width=382&title_color=777&text_color=777&bg_color=00000000&theme=gotham" />
 
 &nbsp;
-
-I prefer to use these tech stacks and tools:  
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&logoColor=fff&textColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB.svg?logo=react&logoColor=fff)
