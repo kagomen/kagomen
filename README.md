@@ -1,11 +1,9 @@
 <div align="center">
-
-／￣￣￣￣￣￣￣￣￣＼  
-|　　**𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍 🚀**　　|  
-＼＿＿＿＿＿＿　＿＿／  
- 　 　　 |／
-
-<a href="https://myoctocat.com/"><img alt="myoctcat stats" height="200px" src="https://github.com/kagomen/kagomen/assets/154225199/ca01b64c-7a2b-43db-a1e9-c013bb6ce4d9"></a>
+ 
+╭━━━━━━━━━━━╮  
+　**𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍 🚀**  
+╰━━ｖ━━━━━━━━╯  
+<img alt="myoctcat stats" height="200px" src="https://github.com/user-attachments/assets/cc23e454-1bfe-499a-8f4b-5e96160472e4">
 
 2023 年 12 月からのろのろとプログラミングを独学中 🐌  
 最近は React で簡単なアプリを作っています 👾  
@@ -40,7 +38,6 @@ Lately, I've been building simple apps with React.
 ![Vite](https://img.shields.io/badge/-Vite-646CFF.svg?logo=vite&logoColor=fff)
 ![Hono](https://img.shields.io/badge/-Hono-E36002.svg?logo=hono&logoColor=fff)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020.svg?logo=cloudflare&logoColor=fff)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37.svg?logo=postman&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E.svg?logo=figma&logoColor=fff)
 ![AdobeIllustrator](https://img.shields.io/badge/-Illustrator-FF9A00.svg?logo=adobeillustrator&logoColor=fff)
 </div>
