@@ -11,7 +11,7 @@
 I've been slowly teaching myself programming since December 2023.  
 Lately, I've been building simple apps with React.  
 
-[TIL](https://github.com/kagomen/TIL) / [X](https://x.com/kkagomme) / [Zenn](https://zenn.dev/kkagomme) / [Scrapbox](https://scrapbox.io/kagomen/)
+[TIL](https://github.com/kagomen/TIL) / [X](https://x.com/kkagomme) / [Zenn](https://zenn.dev/kkagomme) / [sizu.me](https://sizu.me/kagome)
 
 &nbsp;
 
