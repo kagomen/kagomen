@@ -32,8 +32,10 @@ Lately, I've been building simple apps with React.
 &nbsp;
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&logoColor=fff&textColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB.svg?logo=react&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6.svg?logo=typescript&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB.svg?logo=react&logoColor=fff)
+![Next.js](https://img.shields.io/badge/-Next.js-000000.svg?logo=nextdotjs&logoColor=fff)
 ![ReactRouter](https://img.shields.io/badge/-React_Router-CA4245.svg?logo=reactrouter&logoColor=fff)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF.svg?logo=vite&logoColor=fff)
 ![Hono](https://img.shields.io/badge/-Hono-E36002.svg?logo=hono&logoColor=fff)
