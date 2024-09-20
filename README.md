@@ -26,7 +26,7 @@ Lately, I've been building simple apps with React.
 
 | Contributed Project name | GitHub | Website | Release Date |
 |---|---|---|---|
-| 📦 LGTM Factory | [#](https://github.com/lgtm-factory/lgtm-factory) | [#](https://lgtm-factory.pages.dev/) | In development |
+| 📦 LGTM Factory | [#](https://github.com/lgtm-factory/lgtm-factory) | [#](https://lgtm-factory.pages.dev/) | 2024/09/17 (Beta) |
 | 🍡 Firts Contributions JA | [#](https://github.com/first-contributions-ja/first-contributions-ja.github.io) | [#](https://first-contributions-ja.github.io/) | 2024/04/08 |
 
 &nbsp;
