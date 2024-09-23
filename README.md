@@ -15,7 +15,7 @@ Lately, I've been building simple apps with React.
 
 &nbsp;
 
-| My Project name | GitHub | Website | Release Date |
+| My Project | GitHub | Website | Release Date |
 |---|---|---|---|
 | 📚 リブラク | [#](https://github.com/kagomen/libraku) | [#](https://libraku.pages.dev/) | 2024/09/21 |
 | 🧀 倉庫番 | [#](https://github.com/kagomen/sokoban) | [#](https://kagomen.github.io/sokoban/) | 2024/05/08 |
@@ -24,13 +24,14 @@ Lately, I've been building simple apps with React.
 
 &nbsp;
 
+<!-- 
 | Contributed Project name | GitHub | Website | Release Date |
 |---|---|---|---|
 | 📦 LGTM Factory | [#](https://github.com/lgtm-factory/lgtm-factory) | [#](https://lgtm-factory.pages.dev/) | 2024/09/17 (Beta) |
 | 🍡 Firts Contributions JA | [#](https://github.com/first-contributions-ja/first-contributions-ja.github.io) | [#](https://first-contributions-ja.github.io/) | 2024/04/08 |
 
 &nbsp;
-
+-->
  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kagomen&hide_title=true&text_color=777&bg_color=00000000&theme=gotham" />
  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagomen&layout=compact&show_icons=true&card_width=382&title_color=777&text_color=777&bg_color=00000000&theme=gotham" />
 
