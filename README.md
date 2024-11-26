@@ -15,8 +15,9 @@ Lately, I've been building simple apps with React.
 
 &nbsp;
 
-| My Project | GitHub | Website | Release Date |
+| プロジェクト名 | GitHub | Webサイト | リリース日 |
 |---|---|---|---|
+| 🖨️ Proxy Card Print | [#](https://github.com/kagomen/proxy-card-print) | [#](https://proxy-card-print.vercel.app) | 開発中 |
 | 📚 リブラク | [#](https://github.com/kagomen/libraku) | [#](https://libraku.pages.dev/) | 2024/09/21 |
 | 🧀 倉庫番 | [#](https://github.com/kagomen/sokoban) | [#](https://kagomen.github.io/sokoban/) | 2024/05/08 |
 | 🧩 15puzzle | [#](https://github.com/kagomen/15puzzle) | [#](https://kagomen.github.io/15puzzle/) | 2024/04/29 |
