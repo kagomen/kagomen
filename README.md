@@ -9,6 +9,7 @@
 
 &nbsp;
 
- <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kagomen&hide_title=true&text_color=777&bg_color=00000000&theme=gotham" />
- <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagomen&layout=compact&show_icons=true&card_width=382&title_color=777&text_color=777&bg_color=00000000&theme=gotham" />
+ <img alt="github stats" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kagomen" />
+  <img alt="Top Langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kagomen&exclude=HTML,CSS,Blade" />
+ 
 </div>
