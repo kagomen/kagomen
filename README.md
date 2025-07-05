@@ -1,9 +1,6 @@
 <div align="center">
- 
-╭━━━━━━━━━━━╮  
-　**Hello World 🩵**  
-╰━━ｖ━━━━━━━━╯  
-<img alt="myoctcat stats" height="120px" src="https://github.com/user-attachments/assets/cc23e454-1bfe-499a-8f4b-5e96160472e4">
+
+🐌...
 
 [X](https://x.com/kkagomme) / [Zenn](https://zenn.dev/kkagomme) / [sizu.me](https://sizu.me/kagome)
 
